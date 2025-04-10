@@ -1,0 +1,1 @@
+Requires pylatex, and a TeX distribution installed
